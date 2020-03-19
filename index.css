@@ -49,13 +49,12 @@ ul {
     text-align: center;
     color: rgb(255, 255, 255, 0.80);
     background: rgb(0, 0, 0, 0.95);
-    width: 27%;
-    height: 500px;
-    padding: 10px;
-    position: absolute;
+    width: 40%;
+    padding: 5px;
+    position: relative;
     min-width: 27%;
-    left: 100px;
-    max-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
@@ -64,9 +63,8 @@ ul {
     text-align: center;
     color: rgb(255, 255, 255, 0.80);
     background: rgb(0, 0, 0, 0.95);
-    width: 27%;
-    height: 500px;
-    padding: 10px;
+    width: 40%;
+    padding: 5px;
     position: relative;
     min-width: 27%;
     margin-left: auto;
@@ -79,14 +77,12 @@ ul {
     text-align: center;
     color: rgb(255, 255, 255, 0.80);
     background: rgb(0, 0, 0, 0.95);
-    width: 27%;
+    width: 40%;
     min-width: 27%;
-    height: 500px;
-    padding: 10px;
-    position: absolute;
-    right: 100px;
-    top: 248px;
-    max-height: 500px;
+    padding: 5px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .todo {
