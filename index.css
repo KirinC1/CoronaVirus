@@ -14,7 +14,7 @@
     color: rgb(255, 255, 255, 0.80);
     background: rgb(0, 0, 0, 0.95);
     width: 27%;
-    height: 48%;
+    height: 500px;
     padding: 10px;
     position: absolute;
     left: 100px;
@@ -27,7 +27,7 @@
     color: rgb(255, 255, 255, 0.80);
     background: rgb(0, 0, 0, 0.95);
     width: 27%;
-    height: 48%;
+    height: 500px;
     padding: 10px;
     position: relative;
     margin-left: auto;
@@ -35,16 +35,16 @@
 }
 
 .avoid {
-    display:inline-block;
+    overflow: auto;
     text-align: center;
     color: rgb(255, 255, 255, 0.80);
     background: rgb(0, 0, 0, 0.95);
     width: 27%;
-    height: 48%;
+    height: 500px;
     padding: 10px;
     position: absolute;
     right: 100px;
-    top: 140px;
+    top: 148px;
 }
 
 .todo {
@@ -68,7 +68,7 @@
     color: rgb(255, 255, 255, 0.80);
     background: rgb(0, 0, 0, 0.95);
     position: relative;
-    top: 105px;
+    top: 120px;
     width: 600px;
     padding-left: 4px;
     padding-right: 4px;
@@ -83,7 +83,7 @@
     color: rgb(255, 255, 255, 0.80);
     background: rgb(0, 0, 0, 0.95);
     position: relative;
-    top: 110px;
+    top: 125px;
     width: 600px;
     padding-left: 4px;
     padding-right: 4px;
